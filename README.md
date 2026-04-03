@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/SSmI7jm.png]" width="4000" height="1500" alt="Faucet Banner" />
+  <img src="[https://i.imgur.com/SSmI7jm.png]" width="1500" height="500" alt="Faucet Banner" />
 </p>
 
 💧 $Faucet — Solana Token Faucet
