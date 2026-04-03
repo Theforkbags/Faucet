@@ -1,3 +1,8 @@
+
+https://i.imgur.com/SSmI7jm.png
+
+
+
 💧 $Faucet — Solana Token Faucet
 
 A forked and extended Solana faucet built with Expo, Web3, and React Native — distributing $Faucet tokens to users who complete a CAPTCHA challenge.
