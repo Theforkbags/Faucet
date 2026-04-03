@@ -1,7 +1,6 @@
-
-https://i.imgur.com/SSmI7jm.png
-
-
+<p align="center">
+  <img src="(https://i.imgur.com/SSmI7jm.png)" width="100%" alt="Faucet Banner" />
+</p>
 
 💧 $Faucet — Solana Token Faucet
 
